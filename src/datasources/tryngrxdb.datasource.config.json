@@ -1,0 +1,8 @@
+{
+  "name": "tryngrxdb",
+  "connector": "mongodb",
+  "url": "mongodb://localhost/tryngrx",
+  "host": "localhost",
+  "database": "tryngrx",
+  "useNewUrlParser": true
+}
